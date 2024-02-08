@@ -14,3 +14,5 @@ npm run dev
 ```
 
 Acesse http://localhost:5173 para visualizar a aplicação.
+
+para acessar diretamente a aplicação acesse https://ignite-expert.vercel.app/
